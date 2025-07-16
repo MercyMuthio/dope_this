@@ -5,4 +5,4 @@ subtraction
 quotent 
 product
 
-author Mercy 
+author Mercy Muthio
